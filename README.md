@@ -3,7 +3,7 @@
 ### Programa desktop para Windows e macOS e que permite baixar vídeo e áudio de link do YouTube.
 ### O programa vai tentar baixar a melhor qualidade possível.
 ##
-[Windows](https://drive.google.com/file/d/1bFobF6g9BrMgPa69NZ-TPlfAgraQZugH/view?usp=share_link)
+[Windows](https://drive.google.com/file/d/1LCKX6xdK4Nntb2_7OVcPJprQ8CL1tC9_/view?usp=share_link)
    Instalador de 64 bits
 ##
 [macOS](https://drive.google.com/file/d/1QIrODe1TWN0PkxfiGJ3p_CUhrVq5FJYV/view?usp=share_link)
