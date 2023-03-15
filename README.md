@@ -1,11 +1,11 @@
 ## YouTube Media Downloader
 ##
-### Programa desktop para Windows e macOS e que permite baixar vídeo e áudio de link do YouTube.
-### O programa vai tentar baixar a melhor qualidade possível.
+### Desktop program for Windows and macOS that allows you to download video and audio from YouTube link.
+### The program will try to download the best possible quality.
 ##
 [Windows](https://drive.google.com/file/d/1LCKX6xdK4Nntb2_7OVcPJprQ8CL1tC9_/view?usp=share_link)
-   Instalador de 64 bits
+   64 bits installer
 ##
 [macOS](https://drive.google.com/file/d/1QIrODe1TWN0PkxfiGJ3p_CUhrVq5FJYV/view?usp=share_link)
-   Versão 64 bits - Obs. No macOS você vai precisar habilitar programas de terceiros em preferências do seu sistema.
+   Version 64 bits - * On macOS you will need to enable third party programs in your system preferences.
 
